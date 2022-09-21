@@ -10,8 +10,8 @@ python run.py --input "1.jpg" --output "result.jpg"
 
 ## Result
 
-![Input image](E:\CodeSheeeeet\Cerebro\LightingAdjustment\inputs\6.jpg)
-![Output Image](E:\CodeSheeeeet\Cerebro\LightingAdjustment\outputs\result.jpg)
+![Input image](./inputs/6.jpg)
+![Output Image](./outputs/result.jpg)
 
 ## Citations
 ```
