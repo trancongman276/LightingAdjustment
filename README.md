@@ -8,6 +8,11 @@ Implemented code for [Perception-Based Lighting Adjustment of Image Sequences](h
 python run.py --input "1.jpg" --output "result.jpg"
 ```
 
+## Result
+
+![Input image](E:\CodeSheeeeet\Cerebro\LightingAdjustment\inputs\6.jpg)
+![Output Image](E:\CodeSheeeeet\Cerebro\LightingAdjustment\outputs\result.jpg)
+
 ## Citations
 ```
 @inproceedings{jiang2009perception,
